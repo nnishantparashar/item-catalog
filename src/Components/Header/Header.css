@@ -1,0 +1,19 @@
+
+.cart-icon{
+    width:15px;
+}
+
+.badge {
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 9px;
+  }
+  
+  #cartCount {
+      font-size: 12px;
+      background: black;
+      color: #fff;
+      padding: 0 5px;
+      vertical-align: top;
+      margin-left: 2px; 
+  }

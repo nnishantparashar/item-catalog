@@ -1,0 +1,33 @@
+
+.content {
+   position: relative;
+   justify-content: center;
+   border: 1px solid pink;
+   background-color:azure;
+   padding-top: 80px;
+   padding-bottom: 180px;
+   margin: 100px 120px 120px 120px;
+
+}
+
+.welcome-header {
+  text-shadow: 1px 2px grey;
+  
+}
+
+.welcome-text {
+  position: relative;
+  justify-content: center;
+  padding: 40px;
+  font-size: large;
+  font-style: oblique;
+}
+
+.welcome-action {
+  position: relative;
+  justify-content: center;
+  gap: 12px;
+ 
+ 
+  /* margin: auto; */
+}
